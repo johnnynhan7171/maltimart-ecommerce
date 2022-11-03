@@ -1,0 +1,37 @@
+.product_details{
+    margin-top: 70px;
+}
+.product_details h2{
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+.product_rating span i{
+    color: #ff7f50;
+}
+.product_rating p span{
+    color: #ff7f50;
+    font-weight: 500;
+}
+.product_price {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.tab_wrapper {
+    color: var(--primary-color);
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.active_tab{
+    font-weight: 600;
+}
+.tab_content p{
+    line-height: 30px;
+}
+.review_wrapper ul li span{
+    color: #ff7f50;
+    font-weight: 600;
+}
+.review_wrapper ul li p{
+    margin-top: 10px;
+}
